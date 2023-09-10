@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyHttp"
 include(":app")
+include(":library")
